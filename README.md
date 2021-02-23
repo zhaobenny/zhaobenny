@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my Github profile! My name's Benny and I enjoy learning about programming and technology!  
+Welcome to my Github profile! My name's Benny and I enjoy learning about programming :man_technologist: and technology :computer:!  
 
 [![Benny's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaobenny&show_icons=true&theme=radical&custom_title=Benny's%20Github%20Stats)](https://github.com/zhaobenny/github-readme-stats)
