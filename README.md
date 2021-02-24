@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Welcome to my Github profile! My name's Benny and I love learning about programming :man_technologist: and technology :man_astronaut:!  
 
-[![Benny's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaobenny&show_icons=true&theme=radical&custom_title=Benny's%20Github%20Stats)](https://github.com/zhaobenny/github-readme-stats)
+![Benny's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaobenny&show_icons=true&theme=radical&custom_title=Benny's%20Github%20Stats)
