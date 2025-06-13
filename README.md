@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-software dev looking for my next role 🎯 - 
+software dev - 
 <a href="https://zhao.gg">zhao.gg</a>
 </p>
 
